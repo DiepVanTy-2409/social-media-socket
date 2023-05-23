@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "https://www.robinwieruch.de/blog/\r     https://www.robinwieruch.de/categories/react-hooks/1/\r     https://www.robinwieruch.de/react-event-handler/\r }",
   "main": "index.js",
+  "type": "module" ,
   "scripts": {
     "start": "node index.js"
   },
